@@ -1,0 +1,53 @@
+body{
+  background-color: magenta;
+}
+
+.principal{
+  background: #magenta;
+}
+
+.titulo-principal{
+  text-align: center;
+  font-size: 50px;
+}
+.titu-dois{
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+}
+#sus{
+  font-size: 40px;
+  color: purple;
+  font-style: italic;
+}
+#sus2{
+  color: green;
+  font-size: 40px;
+  font-size: italic;
+}
+#sus3{
+  color: blue;
+  font-size: 40px;
+  font-style: italic;
+}
+.titulo3{
+  text-align: center;
+  font-size: 20px;
+  color: red;
+}
+.itens{
+  color: yellow;
+  font-style: italic;
+  font-size: 32px;
+}
+
+.pincel{
+  background: #FFFFFF;
+  padding: 20px;
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 5%;
+}
